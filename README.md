@@ -1,6 +1,6 @@
 <!--![banner](https://github.com/ammarsaa/Malwarebytes-Premium-Bypass/assets/63854344/08ea78c7-d993-43d4-b9b3-05917ba25521)-->
 
-<h1 align="center">Hi there 👋, I'm Aneeq</h1>
+<h1 align="center">Hi there 👋, I'm Aneeq Azam</h1>
 <h3 align="center">Building product-focused web apps & sustainability-driven tools with clean full-stack engineering</h3>
 
 <!--## 🌐 Socials
@@ -80,10 +80,8 @@ I’m a web developer focused on building practical, product-driven applications
 
 ---
 
-## 💰 You can help me by Donating
+   ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/aneeqazam) 
 
-<div align="center">
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/aneeqazam) 
-</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--  ( https://gprm.itsvg.in ) -->
