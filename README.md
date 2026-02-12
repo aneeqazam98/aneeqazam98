@@ -1,4 +1,4 @@
-<!--![banner](https://github.com/ammarsaa/Malwarebytes-Premium-Bypass/assets/63854344/08ea78c7-d993-43d4-b9b3-05917ba25521)-->
+<!--![banner](https://github.com)-->
 
 <h1 align="center">Hi there 👋, I'm Aneeq Azam</h1>
 <h3 align="center">Building product-focused web apps & sustainability-driven tools with clean full-stack engineering</h3>
